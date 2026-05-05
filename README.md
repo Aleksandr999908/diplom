@@ -4,8 +4,8 @@
 
 ## Требования
 
-- **Python** 3.9+ (рекомендуется 3.10–3.11; 3.12+ и 3.13 обычно работают — при ошибке колёс см. сообщение `pip`).
-- **Windows** (для `start_gui.bat`; Linux/macOS — запуск через `python run_gui.py`).
+- **Python** 3.9+.
+- **Windows** ( запуск через `python run_gui.py`).
 
 ## Установка
 
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 На Windows после установки зависимостей можно один раз запустить **`prepare_project.bat`**: установка пакетов, скачивание RTMPose, `verify_project.py --strict`, смоук-тест `train.py --one-batch`.
 
-Полный конвейер по шагам (долго на CPU): **`run_all_ordered.bat`** — `extract_skeletons` → `extract_errors` → `train.py` → `train_fault.py` → проверки.
+Полный конвейер по шагам (на CPU): **`run_all_ordered.bat`** — `extract_skeletons` → `extract_errors` → `train.py` → `train_fault.py` → проверки.
 
 Скачать модель позы **RTMPose** (ONNX):
 
