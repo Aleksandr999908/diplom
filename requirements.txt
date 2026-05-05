@@ -1,0 +1,14 @@
+# Python 3.9+; при 3.12+ установите колёса из сообщения pip при ошибке.
+# onnx — проверка графа после export_classifier_onnx.py --verify
+onnx>=1.14.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+onnxruntime>=1.14.0
+torch>=1.13.0
+Pillow>=9.0.0
+tqdm>=4.64.0
+scipy>=1.7.0
+pytest>=7.0.0
+tensorboard>=2.14.0
+scikit-learn>=1.0.0
+lightgbm>=4.0.0

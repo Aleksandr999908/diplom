@@ -1,0 +1,3746 @@
+[
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_1.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_1",
+    "source_video": "жим_лежа/bench press_1.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_10.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_10",
+    "source_video": "жим_лежа/bench press_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_11.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_11",
+    "source_video": "жим_лежа/bench press_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_12.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_12",
+    "source_video": "жим_лежа/bench press_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_13.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_13",
+    "source_video": "жим_лежа/bench press_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_14.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_14",
+    "source_video": "жим_лежа/bench press_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_15.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_15",
+    "source_video": "жим_лежа/bench press_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_16.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_16",
+    "source_video": "жим_лежа/bench press_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_17.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_17",
+    "source_video": "жим_лежа/bench press_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_18.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_18",
+    "source_video": "жим_лежа/bench press_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_19.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_19",
+    "source_video": "жим_лежа/bench press_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_2.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_2",
+    "source_video": "жим_лежа/bench press_2.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_20.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_20",
+    "source_video": "жим_лежа/bench press_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_21.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_21",
+    "source_video": "жим_лежа/bench press_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_22.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_22",
+    "source_video": "жим_лежа/bench press_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_23.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_23",
+    "source_video": "жим_лежа/bench press_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_24.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_24",
+    "source_video": "жим_лежа/bench press_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_25.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_25",
+    "source_video": "жим_лежа/bench press_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_26.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_26",
+    "source_video": "жим_лежа/bench press_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_27.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_27",
+    "source_video": "жим_лежа/bench press_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_28.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_28",
+    "source_video": "жим_лежа/bench press_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_29.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_29",
+    "source_video": "жим_лежа/bench press_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_3.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_3",
+    "source_video": "жим_лежа/bench press_3.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_30.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_30",
+    "source_video": "жим_лежа/bench press_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_31.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_31",
+    "source_video": "жим_лежа/bench press_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_32.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_32",
+    "source_video": "жим_лежа/bench press_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_33.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_33",
+    "source_video": "жим_лежа/bench press_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_34.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_34",
+    "source_video": "жим_лежа/bench press_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_35.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_35",
+    "source_video": "жим_лежа/bench press_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_36.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_36",
+    "source_video": "жим_лежа/bench press_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_37.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_37",
+    "source_video": "жим_лежа/bench press_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_38.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_38",
+    "source_video": "жим_лежа/bench press_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_39.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_39",
+    "source_video": "жим_лежа/bench press_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_4.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_4",
+    "source_video": "жим_лежа/bench press_4.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_40.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_40",
+    "source_video": "жим_лежа/bench press_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_41.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_41",
+    "source_video": "жим_лежа/bench press_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_42.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_42",
+    "source_video": "жим_лежа/bench press_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_43.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_43",
+    "source_video": "жим_лежа/bench press_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_44.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_44",
+    "source_video": "жим_лежа/bench press_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_45.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_45",
+    "source_video": "жим_лежа/bench press_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_46.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_46",
+    "source_video": "жим_лежа/bench press_46.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_47.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_47",
+    "source_video": "жим_лежа/bench press_47.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_48.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_48",
+    "source_video": "жим_лежа/bench press_48.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_49.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_49",
+    "source_video": "жим_лежа/bench press_49.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_5.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_5",
+    "source_video": "жим_лежа/bench press_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_50.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_50",
+    "source_video": "жим_лежа/bench press_50.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_51.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_51",
+    "source_video": "жим_лежа/bench press_51.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_52.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_52",
+    "source_video": "жим_лежа/bench press_52.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_53.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_53",
+    "source_video": "жим_лежа/bench press_53.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_54.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_54",
+    "source_video": "жим_лежа/bench press_54.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_55.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_55",
+    "source_video": "жим_лежа/bench press_55.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_56.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_56",
+    "source_video": "жим_лежа/bench press_56.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_57.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_57",
+    "source_video": "жим_лежа/bench press_57.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_58.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_58",
+    "source_video": "жим_лежа/bench press_58.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_59.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_59",
+    "source_video": "жим_лежа/bench press_59.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_6.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_6",
+    "source_video": "жим_лежа/bench press_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_60.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_60",
+    "source_video": "жим_лежа/bench press_60.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_61.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_61",
+    "source_video": "жим_лежа/bench press_61.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_62.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_62",
+    "source_video": "жим_лежа/bench press_62.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_63.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_63",
+    "source_video": "жим_лежа/bench press_63.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_64.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_64",
+    "source_video": "жим_лежа/bench press_64.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_65.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_65",
+    "source_video": "жим_лежа/bench press_65.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_66.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_66",
+    "source_video": "жим_лежа/bench press_66.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_67.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_67",
+    "source_video": "жим_лежа/bench press_67.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_68.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_68",
+    "source_video": "жим_лежа/bench press_68.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_69.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_69",
+    "source_video": "жим_лежа/bench press_69.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_7.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_7",
+    "source_video": "жим_лежа/bench press_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_70.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_70",
+    "source_video": "жим_лежа/bench press_70.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_71.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_71",
+    "source_video": "жим_лежа/bench press_71.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_72.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_72",
+    "source_video": "жим_лежа/bench press_72.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_73.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_73",
+    "source_video": "жим_лежа/bench press_73.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_74.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_74",
+    "source_video": "жим_лежа/bench press_74.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_75.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_75",
+    "source_video": "жим_лежа/bench press_75.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_76.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_76",
+    "source_video": "жим_лежа/bench press_76.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_77.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_77",
+    "source_video": "жим_лежа/bench press_77.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_78.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_78",
+    "source_video": "жим_лежа/bench press_78.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_8.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_8",
+    "source_video": "жим_лежа/bench press_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/жим_лежа/bench press_9.npy",
+    "label_name": "жим_лежа",
+    "video_id": "bench press_9",
+    "source_video": "жим_лежа/bench press_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_1.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_1",
+    "source_video": "отжимания/push-up_1.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_10.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_10",
+    "source_video": "отжимания/push-up_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_11.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_11",
+    "source_video": "отжимания/push-up_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_12.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_12",
+    "source_video": "отжимания/push-up_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_13.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_13",
+    "source_video": "отжимания/push-up_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_14.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_14",
+    "source_video": "отжимания/push-up_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_15.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_15",
+    "source_video": "отжимания/push-up_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_16.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_16",
+    "source_video": "отжимания/push-up_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_17.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_17",
+    "source_video": "отжимания/push-up_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_18.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_18",
+    "source_video": "отжимания/push-up_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_19.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_19",
+    "source_video": "отжимания/push-up_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_2.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_2",
+    "source_video": "отжимания/push-up_2.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_20.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_20",
+    "source_video": "отжимания/push-up_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_21.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_21",
+    "source_video": "отжимания/push-up_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_22.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_22",
+    "source_video": "отжимания/push-up_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_23.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_23",
+    "source_video": "отжимания/push-up_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_24.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_24",
+    "source_video": "отжимания/push-up_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_25.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_25",
+    "source_video": "отжимания/push-up_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_26.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_26",
+    "source_video": "отжимания/push-up_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_27.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_27",
+    "source_video": "отжимания/push-up_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_28.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_28",
+    "source_video": "отжимания/push-up_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_29.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_29",
+    "source_video": "отжимания/push-up_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_3.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_3",
+    "source_video": "отжимания/push-up_3.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_30.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_30",
+    "source_video": "отжимания/push-up_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_31.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_31",
+    "source_video": "отжимания/push-up_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_32.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_32",
+    "source_video": "отжимания/push-up_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_33.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_33",
+    "source_video": "отжимания/push-up_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_34.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_34",
+    "source_video": "отжимания/push-up_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_35.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_35",
+    "source_video": "отжимания/push-up_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_36.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_36",
+    "source_video": "отжимания/push-up_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_37.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_37",
+    "source_video": "отжимания/push-up_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_38.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_38",
+    "source_video": "отжимания/push-up_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_39.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_39",
+    "source_video": "отжимания/push-up_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_4.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_4",
+    "source_video": "отжимания/push-up_4.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_40.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_40",
+    "source_video": "отжимания/push-up_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_41.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_41",
+    "source_video": "отжимания/push-up_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_42.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_42",
+    "source_video": "отжимания/push-up_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_43.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_43",
+    "source_video": "отжимания/push-up_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_44.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_44",
+    "source_video": "отжимания/push-up_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_45.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_45",
+    "source_video": "отжимания/push-up_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_46.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_46",
+    "source_video": "отжимания/push-up_46.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_47.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_47",
+    "source_video": "отжимания/push-up_47.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_48.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_48",
+    "source_video": "отжимания/push-up_48.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_49.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_49",
+    "source_video": "отжимания/push-up_49.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_5.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_5",
+    "source_video": "отжимания/push-up_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_50.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_50",
+    "source_video": "отжимания/push-up_50.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_51.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_51",
+    "source_video": "отжимания/push-up_51.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_52.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_52",
+    "source_video": "отжимания/push-up_52.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_53.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_53",
+    "source_video": "отжимания/push-up_53.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_54.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_54",
+    "source_video": "отжимания/push-up_54.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_55.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_55",
+    "source_video": "отжимания/push-up_55.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_56.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_56",
+    "source_video": "отжимания/push-up_56.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_57.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_57",
+    "source_video": "отжимания/push-up_57.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_58.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_58",
+    "source_video": "отжимания/push-up_58.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_59.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_59",
+    "source_video": "отжимания/push-up_59.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_6.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_6",
+    "source_video": "отжимания/push-up_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_60.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_60",
+    "source_video": "отжимания/push-up_60.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_61.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_61",
+    "source_video": "отжимания/push-up_61.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_62.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_62",
+    "source_video": "отжимания/push-up_62.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_63.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_63",
+    "source_video": "отжимания/push-up_63.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_64.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_64",
+    "source_video": "отжимания/push-up_64.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_65.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_65",
+    "source_video": "отжимания/push-up_65.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_66.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_66",
+    "source_video": "отжимания/push-up_66.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_7.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_7",
+    "source_video": "отжимания/push-up_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_8.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_8",
+    "source_video": "отжимания/push-up_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/отжимания/push-up_9.npy",
+    "label_name": "отжимания",
+    "video_id": "push-up_9",
+    "source_video": "отжимания/push-up_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_1.npy",
+    "label_name": "планка",
+    "video_id": "plank_1",
+    "source_video": "планка/plank_1.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_10.npy",
+    "label_name": "планка",
+    "video_id": "plank_10",
+    "source_video": "планка/plank_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_11.npy",
+    "label_name": "планка",
+    "video_id": "plank_11",
+    "source_video": "планка/plank_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_12.npy",
+    "label_name": "планка",
+    "video_id": "plank_12",
+    "source_video": "планка/plank_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_13.npy",
+    "label_name": "планка",
+    "video_id": "plank_13",
+    "source_video": "планка/plank_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_14.npy",
+    "label_name": "планка",
+    "video_id": "plank_14",
+    "source_video": "планка/plank_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_15.npy",
+    "label_name": "планка",
+    "video_id": "plank_15",
+    "source_video": "планка/plank_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_16.npy",
+    "label_name": "планка",
+    "video_id": "plank_16",
+    "source_video": "планка/plank_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_17.npy",
+    "label_name": "планка",
+    "video_id": "plank_17",
+    "source_video": "планка/plank_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_18.npy",
+    "label_name": "планка",
+    "video_id": "plank_18",
+    "source_video": "планка/plank_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_19.npy",
+    "label_name": "планка",
+    "video_id": "plank_19",
+    "source_video": "планка/plank_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_2.npy",
+    "label_name": "планка",
+    "video_id": "plank_2",
+    "source_video": "планка/plank_2.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_20.npy",
+    "label_name": "планка",
+    "video_id": "plank_20",
+    "source_video": "планка/plank_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_21.npy",
+    "label_name": "планка",
+    "video_id": "plank_21",
+    "source_video": "планка/plank_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_22.npy",
+    "label_name": "планка",
+    "video_id": "plank_22",
+    "source_video": "планка/plank_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_23.npy",
+    "label_name": "планка",
+    "video_id": "plank_23",
+    "source_video": "планка/plank_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_24.npy",
+    "label_name": "планка",
+    "video_id": "plank_24",
+    "source_video": "планка/plank_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_25.npy",
+    "label_name": "планка",
+    "video_id": "plank_25",
+    "source_video": "планка/plank_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_26.npy",
+    "label_name": "планка",
+    "video_id": "plank_26",
+    "source_video": "планка/plank_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_27.npy",
+    "label_name": "планка",
+    "video_id": "plank_27",
+    "source_video": "планка/plank_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_28.npy",
+    "label_name": "планка",
+    "video_id": "plank_28",
+    "source_video": "планка/plank_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_29.npy",
+    "label_name": "планка",
+    "video_id": "plank_29",
+    "source_video": "планка/plank_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_3.npy",
+    "label_name": "планка",
+    "video_id": "plank_3",
+    "source_video": "планка/plank_3.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_30.npy",
+    "label_name": "планка",
+    "video_id": "plank_30",
+    "source_video": "планка/plank_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_31.npy",
+    "label_name": "планка",
+    "video_id": "plank_31",
+    "source_video": "планка/plank_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_32.npy",
+    "label_name": "планка",
+    "video_id": "plank_32",
+    "source_video": "планка/plank_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_33.npy",
+    "label_name": "планка",
+    "video_id": "plank_33",
+    "source_video": "планка/plank_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_34.npy",
+    "label_name": "планка",
+    "video_id": "plank_34",
+    "source_video": "планка/plank_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_35.npy",
+    "label_name": "планка",
+    "video_id": "plank_35",
+    "source_video": "планка/plank_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_36.npy",
+    "label_name": "планка",
+    "video_id": "plank_36",
+    "source_video": "планка/plank_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_37.npy",
+    "label_name": "планка",
+    "video_id": "plank_37",
+    "source_video": "планка/plank_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_38.npy",
+    "label_name": "планка",
+    "video_id": "plank_38",
+    "source_video": "планка/plank_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_39.npy",
+    "label_name": "планка",
+    "video_id": "plank_39",
+    "source_video": "планка/plank_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_4.npy",
+    "label_name": "планка",
+    "video_id": "plank_4",
+    "source_video": "планка/plank_4.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_40.npy",
+    "label_name": "планка",
+    "video_id": "plank_40",
+    "source_video": "планка/plank_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_41.npy",
+    "label_name": "планка",
+    "video_id": "plank_41",
+    "source_video": "планка/plank_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_42.npy",
+    "label_name": "планка",
+    "video_id": "plank_42",
+    "source_video": "планка/plank_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_43.npy",
+    "label_name": "планка",
+    "video_id": "plank_43",
+    "source_video": "планка/plank_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_44.npy",
+    "label_name": "планка",
+    "video_id": "plank_44",
+    "source_video": "планка/plank_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_45.npy",
+    "label_name": "планка",
+    "video_id": "plank_45",
+    "source_video": "планка/plank_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_5.npy",
+    "label_name": "планка",
+    "video_id": "plank_5",
+    "source_video": "планка/plank_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_6.npy",
+    "label_name": "планка",
+    "video_id": "plank_6",
+    "source_video": "планка/plank_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_7.npy",
+    "label_name": "планка",
+    "video_id": "plank_7",
+    "source_video": "планка/plank_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_8.npy",
+    "label_name": "планка",
+    "video_id": "plank_8",
+    "source_video": "планка/plank_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/планка/plank_9.npy",
+    "label_name": "планка",
+    "video_id": "plank_9",
+    "source_video": "планка/plank_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_1.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_1",
+    "source_video": "подтягивания/pull up_1.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_10.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_10",
+    "source_video": "подтягивания/pull up_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_11.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_11",
+    "source_video": "подтягивания/pull up_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_12.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_12",
+    "source_video": "подтягивания/pull up_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_13.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_13",
+    "source_video": "подтягивания/pull up_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_14.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_14",
+    "source_video": "подтягивания/pull up_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_15.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_15",
+    "source_video": "подтягивания/pull up_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_16.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_16",
+    "source_video": "подтягивания/pull up_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_17.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_17",
+    "source_video": "подтягивания/pull up_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_18.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_18",
+    "source_video": "подтягивания/pull up_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_19.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_19",
+    "source_video": "подтягивания/pull up_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_2.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_2",
+    "source_video": "подтягивания/pull up_2.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_20.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_20",
+    "source_video": "подтягивания/pull up_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_21.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_21",
+    "source_video": "подтягивания/pull up_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_22.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_22",
+    "source_video": "подтягивания/pull up_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_23.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_23",
+    "source_video": "подтягивания/pull up_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_24.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_24",
+    "source_video": "подтягивания/pull up_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_25.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_25",
+    "source_video": "подтягивания/pull up_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_26.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_26",
+    "source_video": "подтягивания/pull up_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_27.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_27",
+    "source_video": "подтягивания/pull up_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_28.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_28",
+    "source_video": "подтягивания/pull up_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_29.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_29",
+    "source_video": "подтягивания/pull up_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_3.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_3",
+    "source_video": "подтягивания/pull up_3.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_30.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_30",
+    "source_video": "подтягивания/pull up_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_31.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_31",
+    "source_video": "подтягивания/pull up_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_32.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_32",
+    "source_video": "подтягивания/pull up_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_33.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_33",
+    "source_video": "подтягивания/pull up_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_34.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_34",
+    "source_video": "подтягивания/pull up_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_35.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_35",
+    "source_video": "подтягивания/pull up_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_36.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_36",
+    "source_video": "подтягивания/pull up_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_37.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_37",
+    "source_video": "подтягивания/pull up_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_38.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_38",
+    "source_video": "подтягивания/pull up_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_39.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_39",
+    "source_video": "подтягивания/pull up_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_4.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_4",
+    "source_video": "подтягивания/pull up_4.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_40.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_40",
+    "source_video": "подтягивания/pull up_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_41.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_41",
+    "source_video": "подтягивания/pull up_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_42.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_42",
+    "source_video": "подтягивания/pull up_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_43.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_43",
+    "source_video": "подтягивания/pull up_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_44.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_44",
+    "source_video": "подтягивания/pull up_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_45.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_45",
+    "source_video": "подтягивания/pull up_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_5.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_5",
+    "source_video": "подтягивания/pull up_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_6.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_6",
+    "source_video": "подтягивания/pull up_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_7.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_7",
+    "source_video": "подтягивания/pull up_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_8.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_8",
+    "source_video": "подтягивания/pull up_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подтягивания/pull up_9.npy",
+    "label_name": "подтягивания",
+    "video_id": "pull up_9",
+    "source_video": "подтягивания/pull up_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_1.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_1",
+    "source_video": "подъемы_ног/leg raises_1.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_10.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_10",
+    "source_video": "подъемы_ног/leg raises_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_11.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_11",
+    "source_video": "подъемы_ног/leg raises_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_12.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_12",
+    "source_video": "подъемы_ног/leg raises_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_13.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_13",
+    "source_video": "подъемы_ног/leg raises_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_14.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_14",
+    "source_video": "подъемы_ног/leg raises_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_15.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_15",
+    "source_video": "подъемы_ног/leg raises_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_16.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_16",
+    "source_video": "подъемы_ног/leg raises_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_17.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_17",
+    "source_video": "подъемы_ног/leg raises_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_18.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_18",
+    "source_video": "подъемы_ног/leg raises_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_19.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_19",
+    "source_video": "подъемы_ног/leg raises_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_2.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_2",
+    "source_video": "подъемы_ног/leg raises_2.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_20.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_20",
+    "source_video": "подъемы_ног/leg raises_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_21.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_21",
+    "source_video": "подъемы_ног/leg raises_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_22.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_22",
+    "source_video": "подъемы_ног/leg raises_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_23.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_23",
+    "source_video": "подъемы_ног/leg raises_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_24.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_24",
+    "source_video": "подъемы_ног/leg raises_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_25.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_25",
+    "source_video": "подъемы_ног/leg raises_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_26.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_26",
+    "source_video": "подъемы_ног/leg raises_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_27.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_27",
+    "source_video": "подъемы_ног/leg raises_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_28.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_28",
+    "source_video": "подъемы_ног/leg raises_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_29.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_29",
+    "source_video": "подъемы_ног/leg raises_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_3.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_3",
+    "source_video": "подъемы_ног/leg raises_3.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_30.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_30",
+    "source_video": "подъемы_ног/leg raises_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_31.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_31",
+    "source_video": "подъемы_ног/leg raises_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_32.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_32",
+    "source_video": "подъемы_ног/leg raises_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_33.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_33",
+    "source_video": "подъемы_ног/leg raises_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_34.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_34",
+    "source_video": "подъемы_ног/leg raises_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_35.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_35",
+    "source_video": "подъемы_ног/leg raises_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_36.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_36",
+    "source_video": "подъемы_ног/leg raises_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_37.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_37",
+    "source_video": "подъемы_ног/leg raises_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_38.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_38",
+    "source_video": "подъемы_ног/leg raises_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_39.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_39",
+    "source_video": "подъемы_ног/leg raises_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_4.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_4",
+    "source_video": "подъемы_ног/leg raises_4.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_40.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_40",
+    "source_video": "подъемы_ног/leg raises_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_41.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_41",
+    "source_video": "подъемы_ног/leg raises_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_42.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_42",
+    "source_video": "подъемы_ног/leg raises_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_43.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_43",
+    "source_video": "подъемы_ног/leg raises_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_44.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_44",
+    "source_video": "подъемы_ног/leg raises_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_45.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_45",
+    "source_video": "подъемы_ног/leg raises_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_5.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_5",
+    "source_video": "подъемы_ног/leg raises_5.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_6.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_6",
+    "source_video": "подъемы_ног/leg raises_6.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_7.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_7",
+    "source_video": "подъемы_ног/leg raises_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_8.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_8",
+    "source_video": "подъемы_ног/leg raises_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/подъемы_ног/leg raises_9.npy",
+    "label_name": "подъемы_ног",
+    "video_id": "leg raises_9",
+    "source_video": "подъемы_ног/leg raises_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_1.npy",
+    "label_name": "приседания",
+    "video_id": "squat_1",
+    "source_video": "приседания/squat_1.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_10.npy",
+    "label_name": "приседания",
+    "video_id": "squat_10",
+    "source_video": "приседания/squat_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_11.npy",
+    "label_name": "приседания",
+    "video_id": "squat_11",
+    "source_video": "приседания/squat_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_12.npy",
+    "label_name": "приседания",
+    "video_id": "squat_12",
+    "source_video": "приседания/squat_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_13.npy",
+    "label_name": "приседания",
+    "video_id": "squat_13",
+    "source_video": "приседания/squat_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_14.npy",
+    "label_name": "приседания",
+    "video_id": "squat_14",
+    "source_video": "приседания/squat_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_15.npy",
+    "label_name": "приседания",
+    "video_id": "squat_15",
+    "source_video": "приседания/squat_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_16.npy",
+    "label_name": "приседания",
+    "video_id": "squat_16",
+    "source_video": "приседания/squat_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_17.npy",
+    "label_name": "приседания",
+    "video_id": "squat_17",
+    "source_video": "приседания/squat_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_18.npy",
+    "label_name": "приседания",
+    "video_id": "squat_18",
+    "source_video": "приседания/squat_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_19.npy",
+    "label_name": "приседания",
+    "video_id": "squat_19",
+    "source_video": "приседания/squat_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_2.npy",
+    "label_name": "приседания",
+    "video_id": "squat_2",
+    "source_video": "приседания/squat_2.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_20.npy",
+    "label_name": "приседания",
+    "video_id": "squat_20",
+    "source_video": "приседания/squat_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_21.npy",
+    "label_name": "приседания",
+    "video_id": "squat_21",
+    "source_video": "приседания/squat_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_22.npy",
+    "label_name": "приседания",
+    "video_id": "squat_22",
+    "source_video": "приседания/squat_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_23.npy",
+    "label_name": "приседания",
+    "video_id": "squat_23",
+    "source_video": "приседания/squat_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_24.npy",
+    "label_name": "приседания",
+    "video_id": "squat_24",
+    "source_video": "приседания/squat_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_25.npy",
+    "label_name": "приседания",
+    "video_id": "squat_25",
+    "source_video": "приседания/squat_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_26.npy",
+    "label_name": "приседания",
+    "video_id": "squat_26",
+    "source_video": "приседания/squat_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_27.npy",
+    "label_name": "приседания",
+    "video_id": "squat_27",
+    "source_video": "приседания/squat_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_28.npy",
+    "label_name": "приседания",
+    "video_id": "squat_28",
+    "source_video": "приседания/squat_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_29.npy",
+    "label_name": "приседания",
+    "video_id": "squat_29",
+    "source_video": "приседания/squat_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_3.npy",
+    "label_name": "приседания",
+    "video_id": "squat_3",
+    "source_video": "приседания/squat_3.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_30.npy",
+    "label_name": "приседания",
+    "video_id": "squat_30",
+    "source_video": "приседания/squat_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_31.npy",
+    "label_name": "приседания",
+    "video_id": "squat_31",
+    "source_video": "приседания/squat_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_32.npy",
+    "label_name": "приседания",
+    "video_id": "squat_32",
+    "source_video": "приседания/squat_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_33.npy",
+    "label_name": "приседания",
+    "video_id": "squat_33",
+    "source_video": "приседания/squat_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_34.npy",
+    "label_name": "приседания",
+    "video_id": "squat_34",
+    "source_video": "приседания/squat_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_35.npy",
+    "label_name": "приседания",
+    "video_id": "squat_35",
+    "source_video": "приседания/squat_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_36.npy",
+    "label_name": "приседания",
+    "video_id": "squat_36",
+    "source_video": "приседания/squat_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_37.npy",
+    "label_name": "приседания",
+    "video_id": "squat_37",
+    "source_video": "приседания/squat_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_38.npy",
+    "label_name": "приседания",
+    "video_id": "squat_38",
+    "source_video": "приседания/squat_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_39.npy",
+    "label_name": "приседания",
+    "video_id": "squat_39",
+    "source_video": "приседания/squat_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_4.npy",
+    "label_name": "приседания",
+    "video_id": "squat_4",
+    "source_video": "приседания/squat_4.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_40.npy",
+    "label_name": "приседания",
+    "video_id": "squat_40",
+    "source_video": "приседания/squat_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_41.npy",
+    "label_name": "приседания",
+    "video_id": "squat_41",
+    "source_video": "приседания/squat_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_42.npy",
+    "label_name": "приседания",
+    "video_id": "squat_42",
+    "source_video": "приседания/squat_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_43.npy",
+    "label_name": "приседания",
+    "video_id": "squat_43",
+    "source_video": "приседания/squat_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_44.npy",
+    "label_name": "приседания",
+    "video_id": "squat_44",
+    "source_video": "приседания/squat_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_45.npy",
+    "label_name": "приседания",
+    "video_id": "squat_45",
+    "source_video": "приседания/squat_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_46.npy",
+    "label_name": "приседания",
+    "video_id": "squat_46",
+    "source_video": "приседания/squat_46.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_5.npy",
+    "label_name": "приседания",
+    "video_id": "squat_5",
+    "source_video": "приседания/squat_5.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_6.npy",
+    "label_name": "приседания",
+    "video_id": "squat_6",
+    "source_video": "приседания/squat_6.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_7.npy",
+    "label_name": "приседания",
+    "video_id": "squat_7",
+    "source_video": "приседания/squat_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_8.npy",
+    "label_name": "приседания",
+    "video_id": "squat_8",
+    "source_video": "приседания/squat_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/приседания/squat_9.npy",
+    "label_name": "приседания",
+    "video_id": "squat_9",
+    "source_video": "приседания/squat_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_1.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_1",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_1.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_10.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_10",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_11.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_11",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_12.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_12",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_13.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_13",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_14.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_14",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_15.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_15",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_16.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_16",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_17.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_17",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_18.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_18",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_19.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_19",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_2.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_2",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_2.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_20.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_20",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_21.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_21",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_22.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_22",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_23.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_23",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_24.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_24",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_25.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_25",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_26.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_26",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_27.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_27",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_28.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_28",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_29.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_29",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_3.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_3",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_3.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_30.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_30",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_31.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_31",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_32.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_32",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_33.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_33",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_34.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_34",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_35.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_35",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_36.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_36",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_37.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_37",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_38.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_38",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_39.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_39",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_4.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_4",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_4.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_40.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_40",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_41.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_41",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_42.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_42",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_43.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_43",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_44.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_44",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_45.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_45",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_46.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_46",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_46.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_47.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_47",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_47.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_48.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_48",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_48.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_49.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_49",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_49.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_5.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_5",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_50.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_50",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_50.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_51.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_51",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_51.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_52.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_52",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_52.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_53.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_53",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_53.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_54.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_54",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_54.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_55.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_55",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_55.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_56.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_56",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_56.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_57.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_57",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_57.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_58.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_58",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_58.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_59.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_59",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_59.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_6.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_6",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_60.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_60",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_60.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_61.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_61",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_61.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_62.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_62",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_62.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_7.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_7",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_8.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_8",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/разгибания_трицепса_в_блоке/tricep pushdown_9.npy",
+    "label_name": "разгибания_трицепса_в_блоке",
+    "video_id": "tricep pushdown_9",
+    "source_video": "разгибания_трицепса_в_блоке/tricep pushdown_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_1.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_1",
+    "source_video": "румынская_тяга/romanian deadlift_1.mov"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_10.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_10",
+    "source_video": "румынская_тяга/romanian deadlift_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_11.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_11",
+    "source_video": "румынская_тяга/romanian deadlift_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_12.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_12",
+    "source_video": "румынская_тяга/romanian deadlift_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_13.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_13",
+    "source_video": "румынская_тяга/romanian deadlift_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_14.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_14",
+    "source_video": "румынская_тяга/romanian deadlift_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_15.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_15",
+    "source_video": "румынская_тяга/romanian deadlift_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_16.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_16",
+    "source_video": "румынская_тяга/romanian deadlift_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_17.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_17",
+    "source_video": "румынская_тяга/romanian deadlift_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_18.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_18",
+    "source_video": "румынская_тяга/romanian deadlift_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_19.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_19",
+    "source_video": "румынская_тяга/romanian deadlift_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_2.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_2",
+    "source_video": "румынская_тяга/romanian deadlift_2.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_20.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_20",
+    "source_video": "румынская_тяга/romanian deadlift_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_21.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_21",
+    "source_video": "румынская_тяга/romanian deadlift_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_22.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_22",
+    "source_video": "румынская_тяга/romanian deadlift_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_23.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_23",
+    "source_video": "румынская_тяга/romanian deadlift_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_24.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_24",
+    "source_video": "румынская_тяга/romanian deadlift_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_25.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_25",
+    "source_video": "румынская_тяга/romanian deadlift_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_26.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_26",
+    "source_video": "румынская_тяга/romanian deadlift_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_27.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_27",
+    "source_video": "румынская_тяга/romanian deadlift_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_28.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_28",
+    "source_video": "румынская_тяга/romanian deadlift_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_29.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_29",
+    "source_video": "румынская_тяга/romanian deadlift_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_3.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_3",
+    "source_video": "румынская_тяга/romanian deadlift_3.mov"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_30.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_30",
+    "source_video": "румынская_тяга/romanian deadlift_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_31.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_31",
+    "source_video": "румынская_тяга/romanian deadlift_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_32.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_32",
+    "source_video": "румынская_тяга/romanian deadlift_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_33.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_33",
+    "source_video": "румынская_тяга/romanian deadlift_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_34.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_34",
+    "source_video": "румынская_тяга/romanian deadlift_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_35.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_35",
+    "source_video": "румынская_тяга/romanian deadlift_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_36.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_36",
+    "source_video": "румынская_тяга/romanian deadlift_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_37.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_37",
+    "source_video": "румынская_тяга/romanian deadlift_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_38.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_38",
+    "source_video": "румынская_тяга/romanian deadlift_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_39.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_39",
+    "source_video": "румынская_тяга/romanian deadlift_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_4.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_4",
+    "source_video": "румынская_тяга/romanian deadlift_4.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_40.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_40",
+    "source_video": "румынская_тяга/romanian deadlift_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_41.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_41",
+    "source_video": "румынская_тяга/romanian deadlift_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_42.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_42",
+    "source_video": "румынская_тяга/romanian deadlift_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_43.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_43",
+    "source_video": "румынская_тяга/romanian deadlift_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_5.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_5",
+    "source_video": "румынская_тяга/romanian deadlift_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_6.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_6",
+    "source_video": "румынская_тяга/romanian deadlift_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_7.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_7",
+    "source_video": "румынская_тяга/romanian deadlift_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_8.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_8",
+    "source_video": "румынская_тяга/romanian deadlift_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/румынская_тяга/romanian deadlift_9.npy",
+    "label_name": "румынская_тяга",
+    "video_id": "romanian deadlift_9",
+    "source_video": "румынская_тяга/romanian deadlift_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_0.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_0",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_0.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_1.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_1",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_1.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_10.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_10",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_100.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_100",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_100.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_101.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_101",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_101.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_11.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_11",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_12.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_12",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_13.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_13",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_14.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_14",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_15.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_15",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_16.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_16",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_17.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_17",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_18.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_18",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_19.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_19",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_2.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_2",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_2.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_20.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_20",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_21.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_21",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_22.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_22",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_23.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_23",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_24.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_24",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_25.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_25",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_26.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_26",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_27.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_27",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_28.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_28",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_29.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_29",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_3.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_3",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_3.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_30.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_30",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_31.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_31",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_32.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_32",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_33.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_33",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_34.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_34",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_35.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_35",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_36.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_36",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_37.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_37",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_38.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_38",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_39.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_39",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_4.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_4",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_4.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_40.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_40",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_41.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_41",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_42.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_42",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_43.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_43",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_44.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_44",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_45.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_45",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_46.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_46",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_46.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_47.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_47",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_47.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_48.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_48",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_48.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_49.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_49",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_49.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_5.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_5",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_50.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_50",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_50.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_51.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_51",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_51.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_52.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_52",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_52.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_53.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_53",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_53.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_54.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_54",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_54.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_55.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_55",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_55.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_56.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_56",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_56.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_57.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_57",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_57.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_58.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_58",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_58.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_59.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_59",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_59.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_6.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_6",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_60.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_60",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_60.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_61.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_61",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_61.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_62.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_62",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_62.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_63.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_63",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_63.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_64.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_64",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_64.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_65.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_65",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_65.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_66.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_66",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_66.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_67.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_67",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_67.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_68.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_68",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_68.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_69.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_69",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_69.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_7.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_7",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_70.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_70",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_70.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_71.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_71",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_71.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_72.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_72",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_72.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_73.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_73",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_73.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_74.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_74",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_74.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_75.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_75",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_75.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_76.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_76",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_76.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_77.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_77",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_77.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_78.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_78",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_78.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_79.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_79",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_79.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_8.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_8",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_80.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_80",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_80.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_81.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_81",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_81.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_82.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_82",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_82.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_83.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_83",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_83.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_84.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_84",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_84.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_85.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_85",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_85.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_86.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_86",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_86.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_87.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_87",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_87.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_88.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_88",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_88.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_89.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_89",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_89.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_9.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_9",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_90.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_90",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_90.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_91.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_91",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_91.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_92.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_92",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_92.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_93.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_93",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_93.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_94.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_94",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_94.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_95.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_95",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_95.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_96.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_96",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_96.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_97.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_97",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_97.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_98.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_98",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_98.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/сгибания_бицепса_со_штангой/barbell biceps curl_99.npy",
+    "label_name": "сгибания_бицепса_со_штангой",
+    "video_id": "barbell biceps curl_99",
+    "source_video": "сгибания_бицепса_со_штангой/barbell biceps curl_99.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_1.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_1",
+    "source_video": "становая_тяга/deadlift_1.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_10.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_10",
+    "source_video": "становая_тяга/deadlift_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_11.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_11",
+    "source_video": "становая_тяга/deadlift_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_12.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_12",
+    "source_video": "становая_тяга/deadlift_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_13.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_13",
+    "source_video": "становая_тяга/deadlift_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_14.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_14",
+    "source_video": "становая_тяга/deadlift_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_15.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_15",
+    "source_video": "становая_тяга/deadlift_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_16.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_16",
+    "source_video": "становая_тяга/deadlift_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_17.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_17",
+    "source_video": "становая_тяга/deadlift_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_18.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_18",
+    "source_video": "становая_тяга/deadlift_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_19.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_19",
+    "source_video": "становая_тяга/deadlift_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_2.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_2",
+    "source_video": "становая_тяга/deadlift_2.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_20.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_20",
+    "source_video": "становая_тяга/deadlift_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_21.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_21",
+    "source_video": "становая_тяга/deadlift_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_22.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_22",
+    "source_video": "становая_тяга/deadlift_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_23.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_23",
+    "source_video": "становая_тяга/deadlift_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_24.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_24",
+    "source_video": "становая_тяга/deadlift_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_25.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_25",
+    "source_video": "становая_тяга/deadlift_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_26.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_26",
+    "source_video": "становая_тяга/deadlift_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_27.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_27",
+    "source_video": "становая_тяга/deadlift_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_28.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_28",
+    "source_video": "становая_тяга/deadlift_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_29.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_29",
+    "source_video": "становая_тяга/deadlift_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_3.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_3",
+    "source_video": "становая_тяга/deadlift_3.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_30.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_30",
+    "source_video": "становая_тяга/deadlift_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_31.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_31",
+    "source_video": "становая_тяга/deadlift_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_32.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_32",
+    "source_video": "становая_тяга/deadlift_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_33.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_33",
+    "source_video": "становая_тяга/deadlift_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_34.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_34",
+    "source_video": "становая_тяга/deadlift_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_35.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_35",
+    "source_video": "становая_тяга/deadlift_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_36.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_36",
+    "source_video": "становая_тяга/deadlift_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_37.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_37",
+    "source_video": "становая_тяга/deadlift_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_38.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_38",
+    "source_video": "становая_тяга/deadlift_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_39.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_39",
+    "source_video": "становая_тяга/deadlift_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_4.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_4",
+    "source_video": "становая_тяга/deadlift_4.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_40.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_40",
+    "source_video": "становая_тяга/deadlift_40.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_41.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_41",
+    "source_video": "становая_тяга/deadlift_41.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_42.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_42",
+    "source_video": "становая_тяга/deadlift_42.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_43.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_43",
+    "source_video": "становая_тяга/deadlift_43.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_44.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_44",
+    "source_video": "становая_тяга/deadlift_44.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_45.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_45",
+    "source_video": "становая_тяга/deadlift_45.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_46.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_46",
+    "source_video": "становая_тяга/deadlift_46.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_47.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_47",
+    "source_video": "становая_тяга/deadlift_47.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_48.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_48",
+    "source_video": "становая_тяга/deadlift_48.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_49.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_49",
+    "source_video": "становая_тяга/deadlift_49.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_5.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_5",
+    "source_video": "становая_тяга/deadlift_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_50.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_50",
+    "source_video": "становая_тяга/deadlift_50.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_51.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_51",
+    "source_video": "становая_тяга/deadlift_51.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_52.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_52",
+    "source_video": "становая_тяга/deadlift_52.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_53.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_53",
+    "source_video": "становая_тяга/deadlift_53.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_6.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_6",
+    "source_video": "становая_тяга/deadlift_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_7.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_7",
+    "source_video": "становая_тяга/deadlift_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_8.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_8",
+    "source_video": "становая_тяга/deadlift_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/становая_тяга/deadlift_9.npy",
+    "label_name": "становая_тяга",
+    "video_id": "deadlift_9",
+    "source_video": "становая_тяга/deadlift_9.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_1.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_1",
+    "source_video": "ягодичный_мост/hip thrust_1.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_10.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_10",
+    "source_video": "ягодичный_мост/hip thrust_10.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_11.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_11",
+    "source_video": "ягодичный_мост/hip thrust_11.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_12.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_12",
+    "source_video": "ягодичный_мост/hip thrust_12.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_13.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_13",
+    "source_video": "ягодичный_мост/hip thrust_13.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_14.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_14",
+    "source_video": "ягодичный_мост/hip thrust_14.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_15.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_15",
+    "source_video": "ягодичный_мост/hip thrust_15.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_16.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_16",
+    "source_video": "ягодичный_мост/hip thrust_16.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_17.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_17",
+    "source_video": "ягодичный_мост/hip thrust_17.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_18.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_18",
+    "source_video": "ягодичный_мост/hip thrust_18.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_19.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_19",
+    "source_video": "ягодичный_мост/hip thrust_19.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_2.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_2",
+    "source_video": "ягодичный_мост/hip thrust_2.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_20.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_20",
+    "source_video": "ягодичный_мост/hip thrust_20.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_21.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_21",
+    "source_video": "ягодичный_мост/hip thrust_21.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_22.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_22",
+    "source_video": "ягодичный_мост/hip thrust_22.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_23.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_23",
+    "source_video": "ягодичный_мост/hip thrust_23.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_24.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_24",
+    "source_video": "ягодичный_мост/hip thrust_24.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_25.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_25",
+    "source_video": "ягодичный_мост/hip thrust_25.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_26.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_26",
+    "source_video": "ягодичный_мост/hip thrust_26.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_27.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_27",
+    "source_video": "ягодичный_мост/hip thrust_27.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_28.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_28",
+    "source_video": "ягодичный_мост/hip thrust_28.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_29.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_29",
+    "source_video": "ягодичный_мост/hip thrust_29.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_3.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_3",
+    "source_video": "ягодичный_мост/hip thrust_3.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_30.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_30",
+    "source_video": "ягодичный_мост/hip thrust_30.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_31.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_31",
+    "source_video": "ягодичный_мост/hip thrust_31.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_32.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_32",
+    "source_video": "ягодичный_мост/hip thrust_32.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_33.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_33",
+    "source_video": "ягодичный_мост/hip thrust_33.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_34.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_34",
+    "source_video": "ягодичный_мост/hip thrust_34.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_35.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_35",
+    "source_video": "ягодичный_мост/hip thrust_35.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_36.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_36",
+    "source_video": "ягодичный_мост/hip thrust_36.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_37.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_37",
+    "source_video": "ягодичный_мост/hip thrust_37.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_38.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_38",
+    "source_video": "ягодичный_мост/hip thrust_38.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_39.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_39",
+    "source_video": "ягодичный_мост/hip thrust_39.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_4.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_4",
+    "source_video": "ягодичный_мост/hip thrust_4.MOV"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_5.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_5",
+    "source_video": "ягодичный_мост/hip thrust_5.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_6.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_6",
+    "source_video": "ягодичный_мост/hip thrust_6.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_7.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_7",
+    "source_video": "ягодичный_мост/hip thrust_7.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_8.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_8",
+    "source_video": "ягодичный_мост/hip thrust_8.mp4"
+  },
+  {
+    "path": "data/processed/skeletons/ягодичный_мост/hip thrust_9.npy",
+    "label_name": "ягодичный_мост",
+    "video_id": "hip thrust_9",
+    "source_video": "ягодичный_мост/hip thrust_9.mp4"
+  }
+]
